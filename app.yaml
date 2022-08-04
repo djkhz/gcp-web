@@ -1,13 +1,11 @@
-runtime: python36
-api_version: 1
-threadsafe: yes
+runtime: python38
 
-# handlers:
-# - url: /assets
-#   static_dir: assets
+handlers:
+- url: /assets
+  static_dir: assets
 
-# - url: .*
-#   script: main.app
+- url: .*
+  script: main.app
 
 # libraries:
 # - name: webapp2
