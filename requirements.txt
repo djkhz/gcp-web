@@ -1,4 +1,10 @@
-WebOb
-Paste
-webapp2
-jinja2
+#WebOb
+#Paste
+#webapp2
+#jinja2
+TensorFlowTTS
+gradio 
+numpy
+SoundFile
+git+https://github.com/repodiac/german_transliterate
+tensorflow-cpu
