@@ -12,7 +12,7 @@
 
 TensorFlowTTS==1.8
 gradio==2.2.15
-numpy==1.20
+numpy==1.19.5
 SoundFile
 git+https://github.com/repodiac/german_transliterate
 tensorflow-cpu
