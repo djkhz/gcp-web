@@ -15,5 +15,4 @@ gradio==2.2.15
 numpy==1.19.5
 SoundFile
 git+https://github.com/repodiac/german_transliterate
-tensorflow-cpu==2.4.2
-tensorflow-gpu==2.6.0
+tensorflow-cpu
